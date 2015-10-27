@@ -1,8 +1,5 @@
-package com.chooblarin;
+package com.chooblarin.thread;
 
-/**
- * Created by chooblarin on 2015/08/25.
- */
 public class ThreadedHello implements Runnable {
 
     private int counter;
